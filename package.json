@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/KlaudiaScode/webpack-test/issues"
   },
-  "homepage": "https://github.com/KlaudiaScode/webpack-test#readme"
+  "homepage": "https://github.com/KlaudiaScode/webpack-test#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
