@@ -1,0 +1,19 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "test jak działa webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KlaudiaScode/webpack-test.git"
+  },
+  "author": "Klaudia <klaudiasagan.code@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KlaudiaScode/webpack-test/issues"
+  },
+  "homepage": "https://github.com/KlaudiaScode/webpack-test#readme"
+}
