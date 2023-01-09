@@ -1,4 +1,4 @@
-import {join} from 'lodash/join';
+import join from 'lodash/join';
 
 function component() {
   const element = document.createElement('div');
